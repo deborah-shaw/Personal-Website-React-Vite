@@ -68,9 +68,8 @@ This React + Vite powered personal website showcases:
    git clone https://github.com/yourusername/your-repo-name.git
 
 2. Navigate to the project directory:
-  ```
-  cd your-repo-name 
-  ```
+   ```bash
+   cd your-repo-name
 
 3. Install dependencies:
    ```
