@@ -68,13 +68,16 @@ This React + Vite powered personal website showcases:
    git clone https://github.com/yourusername/your-repo-name.git
 
 2. Navigate to the project directory:
-  
-  cd your-repo-name
+  ```
+  cd your-repo-name 
+  ```
 
 3. Install dependencies:
+   ```
    npm install
 
-4. Start the development server:
+5. Start the development server:
+   ```
    npm run dev
 
-5. Open your browser at http://localhost:5173 (or the port shown).
+7. Open your browser at ```http://localhost:5173``` (or the port shown).
