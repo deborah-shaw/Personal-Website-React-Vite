@@ -72,11 +72,11 @@ This React + Vite powered personal website showcases:
    cd your-repo-name
 
 3. Install dependencies:
-   ```
+   ```bash
    npm install
 
 5. Start the development server:
-   ```
+   ```bash
    npm run dev
 
 7. Open your browser at ```http://localhost:5173``` (or the port shown).
