@@ -24,7 +24,7 @@ function Cst462(){
 
                 <br />
 
-                <h3>Projects</h3>
+                <h3>Project</h3>
                 <h4>Research Paper: The Social and Economic Impact of Digital Literacy for Seniors</h4>
                 <iframe src="/Personal-Website-React-Vite/projects/cst462_research_paper.pdf" width="100%" height="600px">
                     This browser does not support PDFs. Please download the PDF instead:
