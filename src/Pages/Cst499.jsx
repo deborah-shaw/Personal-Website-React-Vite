@@ -16,7 +16,7 @@ function Cst499(){
 
                 <h3>Projects</h3>
 
-                Presentation
+                <p>Presentation</p>
 
                 {/* Example MP4 embed */}
                 <video width="800" controls autoPlay={false} muted>
