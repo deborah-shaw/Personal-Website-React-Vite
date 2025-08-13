@@ -19,16 +19,16 @@ function Cst499(){
                 <p>Presentation</p>
 
                 {/* Example MP4 embed */}
-                <video width="640" height="360" controls autoPlay={false} muted>
+                <video width="640" height="600" controls autoPlay={false} muted>
                     <source src="/Personal-Website-React-Vite/projects/cst499_Presentation_Draft.mp4" type="video/mp4" />
                     Your browser does not support the video tag.
                 </video>
 
                 <p>Update and Testing Report</p>
                 
-                <iframe src="/Personal-Website-React-Vite/projects/cst499_Status_Update_and_Testing.docx" width="100%" height="600px">
-                    This browser does not support Word. Please download the Word instead:
-                    <a href="/Personal-Website-React-Vite/projects/cst499_Status_Update_and_Testing.docx">Download Word</a>
+                <iframe src="/Personal-Website-React-Vite/projects/cst499_Status_Update_and_Testing.pdf" width="100%" height="600px">
+                    This browser does not support PDFs. Please download the PDF instead:
+                    <a href="/Personal-Website-React-Vite/projects/cst499_Status_Update_and_Testing.pdf">Download PDF</a>
                 </iframe>
             </div>
             <Footer/>
