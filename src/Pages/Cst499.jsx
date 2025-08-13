@@ -19,7 +19,7 @@ function Cst499(){
                 <p>Presentation</p>
 
                 {/* Example MP4 embed */}
-                <video width="640" height="600" controls autoPlay={false} muted>
+                <video width="800" height="600" controls autoPlay={false} muted>
                     <source src="/Personal-Website-React-Vite/projects/cst499_Presentation_Draft.mp4" type="video/mp4" />
                     Your browser does not support the video tag.
                 </video>
