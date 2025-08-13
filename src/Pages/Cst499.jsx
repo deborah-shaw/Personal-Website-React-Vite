@@ -15,7 +15,17 @@ function Cst499(){
                 <p>Students will work on a project in large groups (up to 5 students in each group), developing requirements specification, a solution plan followed by design and implementation of the solution. The problem statement for the projects will be selected by the faculty. Faculty will also play the role of a project manager directing the schedule and deliverables for these projects.</p>
 
                 <h3>Projects</h3>
-                <p>Coming Soon</p>
+                {/* Example MP4 embed */}
+                <video 
+                    width="640" 
+                    height="360" 
+                    controls 
+                    autoPlay={false} 
+                    muted
+                >
+                    <source src="/Personal-Website-React-Vite/projects/cst499_Presentation_Draft.mp4" type="video/mp4" />
+                    Your browser does not support the video tag.
+                </video>
             </div>
             <Footer/>
         </>
