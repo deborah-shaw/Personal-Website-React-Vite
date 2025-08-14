@@ -20,7 +20,7 @@ function Cst499(){
 
                 {/* Example MP4 embed */}
                 <video width="800" controls autoPlay={false} muted>
-                    <source src="/Personal-Website-React-Vite/projects/public/projects/cst499_Presentation_Video.mp4" type="video/mp4" />
+                    <source src="/Personal-Website-React-Vite/projects/cst499_Presentation_Video.mp4" type="video/mp4" />
                     Your browser does not support the video tag.
                 </video>
 
